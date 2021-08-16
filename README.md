@@ -1,6 +1,6 @@
 # Hi, I'm Ravil 👋
 
-Here is going to be about my
+I'm a Junior Python Developer. I live in Saint Petersburg, Russia. Currently looking for a job. 
 <p align = 'center'>
     <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=RHabby&layout=compact" />
 </p>
@@ -21,23 +21,13 @@ Here is going to be about my
 </p>
 
 ## 🛠 Technical Stack
-### Языки программирования:
-
-- Python3;
-- SQL;
-
-### Библиотеки:
-
+- Python3, SQL;
 - Flask, FastAPI, Aiogram;
 - PostgreSQL, SQLite, SQLAlchemy;
 - Redis;
 - Celery;
 - HTML, CSS, Bootstrap.
-
-### Другое:
-
 - git;
 - Docker/Docker Compose;
 - WSL (Ubuntu), bash;
 - Flake8, mypy;
-- Английский язык — читаю документацию, техническую литературу (иногда с переводчиком), сериалы, кино (с ангийскими субтитрами).
